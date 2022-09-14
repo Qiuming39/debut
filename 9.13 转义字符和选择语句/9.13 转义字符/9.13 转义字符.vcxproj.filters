@@ -21,5 +21,8 @@
     <ClCompile Include="选择语句.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\9.14\9.14\循环语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
