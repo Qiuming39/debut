@@ -34,23 +34,23 @@
 //	return 0;
 //}
 
-//int main()
-//{
-//	//printf("hehe\n");
-//	//printf("秋茗\n");
-//	//printf("%d\n",100);//打印一个整数
-//	//sizeof - 关键字 - 操作符 - 计算类型或者变量所占空间大小 (单位是字节）
-//	//计算机中的单位： bit - 比特位, byte - 字节 = 8bit
-//	//kb mb gb tb pb
-//	printf("%d\n", sizeof(char));
-//	printf("%d\n", sizeof(short));
-//	printf("%d\n", sizeof(int));
-//	printf("%d\n", sizeof(long));
-//	printf("%d\n", sizeof(long long));
-//	printf("%d\n", sizeof(float));
-//	printf("%d\n", sizeof(double));
-//	return 0;
-//}
+int main()
+{
+	//printf("hehe\n");
+	//printf("秋茗\n");
+	//printf("%d\n",100);//打印一个整数
+	//sizeof - 关键字 - 操作符 - 计算类型或者变量所占空间大小 (单位是字节）
+	//计算机中的单位： bit - 比特位, byte - 字节 = 8bit
+	//kb mb gb tb pb
+	printf("%d\n", sizeof(char));
+	printf("%d\n", sizeof(short));
+	printf("%d\n", sizeof(int));
+	printf("%d\n", sizeof(long));
+	printf("%d\n", sizeof(long long));
+	printf("%d\n", sizeof(float));
+	printf("%d\n", sizeof(double));
+	return 0;
+}
 
 //C语言怎么描述生活中的数据
 //常量
@@ -88,16 +88,16 @@
 //求两个整数和
 //scanf函数是输入函数，printf函数是打印函数
 //scanf_s vs编译提供的，不是C语言标准规定的，不能跨平台使用
-int main()
-{
-	int a = 0;
-	int b = 0;
-	int sum = 0;
-	scanf("%d %d", &a, &b); //外部输入的两个数，赋值到a 和 b中
-	sum = a + b;
-	printf("sum = %d\n", sum);
-	return 0;
-}
+//int main()
+//{
+//	int a = 0;
+//	int b = 0;
+//	int sum = 0;
+//	scanf("%d %d", &a, &b); //外部输入的两个数，赋值到a 和 b中
+//	sum = a + b;
+//	printf("sum = %d\n", sum);
+//	return 0;
+//}
 
 
 
