@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="static全局变量.c" />
+    <ClCompile Include="常见关键字.c" />
+    <ClCompile Include="常量和宏.c" />
     <ClCompile Include="操作符.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
