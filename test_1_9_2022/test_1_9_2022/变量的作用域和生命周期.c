@@ -6,13 +6,14 @@
 
 
 //局部变量的作用域：变量所在局部范围
-//int main()
-//{
-//	printf("hehe\n");
-//	int a = 10;
-//	printf("%d\n", a);//变量a的作用域 大括号之内
-//	return 0;
-//}
+int main()
+{
+	printf("hehe\n");
+	
+	printf("%d\n", a);//变量a的作用域 大括号之内
+	int a = 10;
+	return 0;
+}
 
 
 //全局变量的作用域：整个工程

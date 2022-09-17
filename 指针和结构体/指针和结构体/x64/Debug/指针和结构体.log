@@ -1,0 +1,16 @@
+﻿  指针.c
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(50,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(50,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(51,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(52,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(52,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(54,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(54,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(55,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(55,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(56,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C\code\debut\指针和结构体\指针和结构体\指针.c(56,9): message : 请考虑在格式字符串中使用“%zd”
+  指针和结构体.vcxproj -> D:\C\code\debut\指针和结构体\x64\Debug\指针和结构体.exe
